@@ -1,0 +1,19 @@
+h1{
+    color: #E3DAC9;
+    text-align: center;
+}
+P{
+    color: #2A3439;
+    background-color: #F0F8FF;
+    padding: 15px;
+    border: 10px solid powderblue;
+    /*margin-top: 40px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+    margin-left: 10px;*/
+    /*comentarios en css*/
+    /*margin: 40px 15px 20px;*/
+    margin: auto 50px;/*Para centrar*/
+    text-align: center;/*para centrar texto*/
+    
+}
